@@ -4,7 +4,7 @@ This Mac Automator workflow adds a "New File" option to your Finder's context me
 
 ## Installation
 
-1. Download and unzip this folder
+1. Download and unzip this repo as a ZIP. 
 2. Double-click the "New File.workflow" file
 3. Click "Install" when prompted
 4. If the Quick Action doesn't appear immediately, try logging out and back in
